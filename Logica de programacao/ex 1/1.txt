@@ -1,0 +1,12 @@
+1 - acordo
+2 - levanto da cama
+3 - higiene pessoal
+4 - vou ao trabalho
+5 - trabalho
+6 - almoço
+7 - volto ao trabalho
+8 - trabalho
+9 - volto pra casa
+10 - janto
+11 - assisto tv
+12 - vou dormir
